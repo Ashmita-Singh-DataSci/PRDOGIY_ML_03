@@ -1,4 +1,4 @@
-# PRDOGIY_ML_03
+# SVC Cats and Dogs Image Classification
 
 This is the 3rd task of my ProdigyInfotech internship,
 where I made a SVC (support vector classifier) model 
